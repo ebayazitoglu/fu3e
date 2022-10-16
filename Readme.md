@@ -12,5 +12,5 @@ I have made adjustments so that the Login page is opened in the same tab as cypr
 Here as I do not have the correct login credentials I could only verify that it errors when not providing valid credentials.
 I also wanted to implement the use of fixtures hence I have used a cy.fixture() method and pulled the data from the formDetails.json file.
 
-I also added a before hook for both files where the page loads and the Accept cookies is clicked.
+I also added a before hook for both files where the page loads and the 'Accept cookies' pop up is clicked.
 
